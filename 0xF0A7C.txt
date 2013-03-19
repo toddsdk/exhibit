@@ -1,0 +1,38 @@
+{
+	{				|
+	 				|  0xF0A7C: aka fORMAT C:
+	     _______________		|  Iuri Kato, Gabriel Silva Ramos
+	    |		    |		|  facebook.com/format.c
+	   ||    0xF0A7C:   |		|  0xf0a7c@gmail.com
+	   ||_______________|		|
+	   |_______________  		|--------------------------------------
+					|
+					|
+	}				|
+					
+
+					 
+O coletivo 0XF0A7C: (aka fORMAT C:) é composto pelo artista visual Iuri Kato e
+o programador Gabriel Silva Ramos, conhecidos de longa data, onde compartilham
+interesses conjuntos por tecnologias, computação, jogos eletrônicos, informática
+de baixo nível e redes underground. Devido às suas vivências e experiências da
+informática do final do século XX ainda enquanto crianças, os artistas possuem
+na bagagem as influências estéticas de interfaces DOS, processadores medidos em
+Megahertz, início da popularização da Internet assim como os jogos para PC da
+década de 90, passado tecnológico que se viu como high-tech e, em menos de uma
+década, já era low-tech. Desta forma, propõem o uso da informática e das
+tecnologias não como ferramentas ou filtros para produções estéticas, ou seja,
+não a utilizam em alto nível, mas sim, a exploração em baixo nível, como
+matéria-prima, como objeto a ser trabalhado e desvelado pelo adentramento nesta
+caixa preta flusseriana. Preferem, portanto, não o termo de alto nível “arte 
+digital”, mas sim, o de baixo nível “arte binária”, pois ressalta a proposta de
+arte que explora o que de fato compõem um arquivo digital, os dígitos, e não que
+apenas se mostra de forma digitalizada. Com isto, o coletivo proporciona um viés
+da opacidade dos meios digitais, revelando suas entranhas, fator que a
+informática de alto nível tornou transparente aos usuários, fazendo-os ver
+programas, imagens, vídeos, músicas e textos “digitais” onde, de fato, são
+apenas organizações de bits e bytes contendo duas possíveis informações: 0 ou 1.
+
+
+
+}
