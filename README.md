@@ -1,103 +1,104 @@
+<pre>
 {
-					 |
-	 				 | exhiBIT		
- 	     _______________	 	 | 0xF0A7C: aka fORMAT C:
- 	    |		    |		 | Iuri Kato, Gabriel Silva Ramos
- 	   ||  exhiBIT.exe  |	  	 | 2011
- 	   ||_______________|	  	 |
- 	   |_______________		 |------------------------------------
- 			   		 |
-					 | INDEX:
-					 | #0001.art - CONCEITO E OBRA	
-					 | #0010.howto - INSTRU«’ES
-					 | #0011.tldr - TL;DR - RESUMO DAS 
-					 |			INFORMA«’ES
-					 |
-					 | #0xF0A7C - CONTATO
-					 | 
+                                         |
+                                         | exhiBIT		
+             _______________             | 0xF0A7C: aka fORMAT C:
+            |               |            | Iuri Kato, Gabriel Silva Ramos
+           ||  exhiBIT.exe  |            | 2011
+           ||_______________|            |
+           |_______________              |------------------------------------
+                                         |
+                                         | INDEX:
+                                         | #0001.art - CONCEITO E OBRA	
+                                         | #0010.howto - INSTRUÔøΩÔøΩES
+                                         | #0011.tldr - TL;DR - RESUMO DAS 
+                                         |			INFORMAÔøΩÔøΩES
+                                         |
+                                         | #0xF0A7C - CONTATO
+                                         | 
 
 
 
->CONCEITO E OBRA						    | #0001.art
+>CONCEITO E OBRA                                                    | #0001.art
 										
-Todos os arquivos em um computador s„o resumidos a dois dÌgitos: zeros e uns.  
+Todos os arquivos em um computador s√£o resumidos a dois d√≠gitos: zeros e uns.  
 Independente de sua complexidade, quais zeros e quais uns e suas respectivas	
-posiÁıes s„o apenas o que importa para uma m·quina poder processar dados. O	
-resultado destes processos È retornado a nÛs atravÈs de um output j· traduzido	
+posi√ß√µes s√£o apenas o que importa para uma m√°quina poder processar dados. O	
+resultado destes processos √© retornado a n√≥s atrav√©s de um output j√° traduzido	
 para linguagens que conhecemos. Desta forma, um texto surge na tela como texto	
-entendido por nÛs, um vÌdeo nos È apresentado e lemos apenas suas informaÁıes	
-enquanto vÌdeo, um programa executa suas funÁıes e nos mostra os resultados	
-destes processos sem que saibamos ou percebamos o que realmente est· por tr·s	
-dos in˙meros bytes e bits que formam as diretrizes de instruÁıes que este	
-programa possui. Clicamos e digitamos esperando resultados intrÌnsecos a estas	
-diretrizes e, sem entender o que est· por tr·s, nos tornamos dependentes das	
-possibilidades ofertadas pelos programas. O meio digital (ou bin·rio) È,	
-portanto, transparente a nÛs.							
+entendido por n√≥s, um v√≠deo nos √© apresentado e lemos apenas suas informa√ß√µes	
+enquanto v√≠deo, um programa executa suas fun√ß√µes e nos mostra os resultados	
+destes processos sem que saibamos ou percebamos o que realmente est√° por tr√°s	
+dos in√∫meros bytes e bits que formam as diretrizes de instru√ß√µes que este	
+programa possui. Clicamos e digitamos esperando resultados intr√≠nsecos a estas	
+diretrizes e, sem entender o que est√° por tr√°s, nos tornamos dependentes das	
+possibilidades ofertadas pelos programas. O meio digital (ou bin√°rio) √©,	
+portanto, transparente a n√≥s.							
 
-*exhiBIT* È um software-arte criado pelo coletivo 0xF0A7C: (ou fORMAT C:) que
+*exhiBIT* √© um software-arte criado pelo coletivo 0xF0A7C: (ou fORMAT C:) que
 escolhe, aleatoriamente e de tempos em tempos, arquivos do computador do
-usu·rio e gera imagens bitmap baseado no conjunto de dados que os compıem,
-independente do que sejam. O conte˙do bin·rio (bits, bytes e suas posiÁıes) do
-arquivo escolhido pelo programa È, portanto, utilizado como matriz imagÈtica de,
-por exemplo, sua dissertaÁ„o de mestrado, o vÌdeo com a famÌlia ou um programa
-pirateado da internet, assim como seu prÛprio browser, programa de chat favorito
-e atÈ mesmo seu sistema operacional. As alteraÁıes feitas nestes arquivos
-alteram, tambÈm, as imagens geradas. Um artigo sendo escrito em um momento ter·
-uma imagem e, apÛs o desenvolvimento de mais conte˙do, ser· possÌvel ver as
-diferenÁas, enquanto imagem, dos dois momentos. Desta forma, exhiBIT traz o
-usu·rio para um nÌvel mais baixo dos meios bin·rios (ou digitais), tornando-os,
+usu√°rio e gera imagens bitmap baseado no conjunto de dados que os comp√µem,
+independente do que sejam. O conte√∫do bin√°rio (bits, bytes e suas posi√ß√µes) do
+arquivo escolhido pelo programa √©, portanto, utilizado como matriz imag√©tica de,
+por exemplo, sua disserta√ß√£o de mestrado, o v√≠deo com a fam√≠lia ou um programa
+pirateado da internet, assim como seu pr√≥prio browser, programa de chat favorito
+e at√© mesmo seu sistema operacional. As altera√ß√µes feitas nestes arquivos
+alteram, tamb√©m, as imagens geradas. Um artigo sendo escrito em um momento ter√°
+uma imagem e, ap√≥s o desenvolvimento de mais conte√∫do, ser√° poss√≠vel ver as
+diferen√ßas, enquanto imagem, dos dois momentos. Desta forma, exhiBIT traz o
+usu√°rio para um n√≠vel mais baixo dos meios bin√°rios (ou digitais), tornando-os,
 assim, menos transparentes e enaltecendo, em forma de imagem, que intimidades,
-pensamentos, ideias, filosofias e expressıes digitalizadas s„o, em sua forma
-abstraÌda, nada mais que arranjos dos mesmos dois elementos numÈricos: 0 e 1.
+pensamentos, ideias, filosofias e express√µes digitalizadas s√£o, em sua forma
+abstra√≠da, nada mais que arranjos dos mesmos dois elementos num√©ricos: 0 e 1.
 										
 									       
 -------------------------------------------------------------------------------|
 
 
->INSTRU«’ES:						 	  | #0010.howto
+>INSTRU√á√ïES:                                                       | #0010.howto
 
-1) Execute o arquivo exhiBIT.EXE. … possÌvel que seja pedido permiss„o do
-administrador. Clique em ìSimî.
+1) Execute o arquivo exhiBIT.EXE. √â poss√≠vel que seja pedido permiss√£o do
+administrador. Clique em ‚ÄúSim‚Äù.
 
-2) O programa se instalar· automaticamente, criando uma pasta em seu desktop
-chamada "exhiBIT" onde as imagens geradas ser„o colocadas.
+2) O programa se instalar√° automaticamente, criando uma pasta em seu desktop
+chamada "exhiBIT" onde as imagens geradas ser√£o colocadas.
 
-3) Nesta pasta vocÍ poder· ver as imagens geradas, assim como desinstalar
-exhiBIT.EXE ou ler o README para informaÁıes completas sobre a obra e sobre o
+3) Nesta pasta voc√™ poder√° ver as imagens geradas, assim como desinstalar
+exhiBIT.EXE ou ler o README para informa√ß√µes completas sobre a obra e sobre o
 coletivo 0xF0A7C: aka fORMAT C:
 
-DesinstalaÁ„o:
-- Para desinstalar exhiBIT.EXE, execute o arquivo exhiBIT_UNINSTALL.EXE que est·
+Desinstala√ß√£o:
+- Para desinstalar exhiBIT.EXE, execute o arquivo exhiBIT_UNINSTALL.EXE que est√°
 na pasta "files".
 
 
 -------------------------------------------------------------------------------|
 
 
->TL;DR - Resumo das informaÁıes			                    | #0011.tldr
+>TL;DR - Resumo das informa√ß√µes                                     | #0011.tldr
 
-- exhiBIT gerar· imagens de seus arquivos de tempos em tempos
-- O programa criar· uma pasta em seu desktop chamada "exhiBIT"
-- Dentro desta pasta estar„o as imagens geradas, assim como a pasta "files"
-- A pasta "files", que est· dentro da pasta "exhiBIT", criada em seu desktop,
-  contÈm os seguintes arquivos:
+- exhiBIT gerar√° imagens de seus arquivos de tempos em tempos
+- O programa criar√° uma pasta em seu desktop chamada "exhiBIT"
+- Dentro desta pasta estar√£o as imagens geradas, assim como a pasta "files"
+- A pasta "files", que est√° dentro da pasta "exhiBIT", criada em seu desktop,
+  cont√©m os seguintes arquivos:
 
-	: exhiBIT_UNINSTALL.exe - Desinstalador do programa
-	: exhiBIT_INSTALL.exe - Instalador do programa
-	: exhiBIT_README.txt - README com informaÁıes e instruÁıes sobre a obra
-	: 0xF0A7C.txt - informaÁıes sobre o coletivo
+        : exhiBIT_UNINSTALL.exe - Desinstalador do programa
+        : exhiBIT_INSTALL.exe - Instalador do programa
+        : exhiBIT_README.txt - README com informa√ß√µes e instru√ß√µes sobre a obra
+        : 0xF0A7C.txt - informa√ß√µes sobre o coletivo
 
-- O programa N√O DANIFICA os arquivos originais. As imagens s„o cÛpias destes  
+- O programa N√ÉO DANIFICA os arquivos originais. As imagens s√£o c√≥pias destes  
 arquivos geradas na pasta do desktop.
 
-- As imagens ter„o como nome o destino do arquivo e a data em que a imagem foi
-gerada, possibilitando ao usu·rio saber onde est· o arquivo de origem, assim
+- As imagens ter√£o como nome o destino do arquivo e a data em que a imagem foi
+gerada, possibilitando ao usu√°rio saber onde est√° o arquivo de origem, assim
 como o momento exato que este foi transformado em imagem.
 
-- As imagens ter„o o nome do arquivo original, seguido da data e hora que o
+- As imagens ter√£o o nome do arquivo original, seguido da data e hora que o
 arquivo foi gerado, no seguinte formato:
 
-   nome do arquivo original_ano_mÍs_dia_hora_minuto_segundo_exhiBITed.bmp
+   nome do arquivo original_ano_m√™s_dia_hora_minuto_segundo_exhiBITed.bmp
 
    Ex: The.Art.of.Computer.Game.Design.pdf_2011_06_16_21h45m02s_exhiBITed.bmp
 
@@ -110,13 +111,14 @@ arquivo foi gerado, no seguinte formato:
 =======================================||=====================================|
 #0xF0A7C
 
-  _______________ 	|
- |		 |	|	0xF0A7C: aka fORMAT C:
-||    0xF0A7C: 	 |	|	Iuri Kato, Gabriel Silva Ramos
-||_______________|	|	facebook.com/format.c
-|_______________  	|	0xf0a7c@gmail.com
-		  	|
+  _______________       |
+ |               |      |       0xF0A7C: aka fORMAT C:
+||    0xF0A7C: 	 |      |       Iuri Kato, Gabriel Silva Ramos
+||_______________|      |       facebook.com/format.c
+|_______________        |       0xf0a7c@gmail.com
+                        |
 
 
 
 
+</pre>
